@@ -1,6 +1,7 @@
 ## Hi, I'm @Qura41 👋
 
 🔭 I'm a beginner .NET developer.
+
 ⚡ I’m currently learning C#, ASP.NET Core, Entity Framework Core, wanna learn API development.
 
 📫 How to reach me:
