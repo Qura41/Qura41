@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm @Qura41 👋
+
+🔭 I'm a beginner .NET developer.
+⚡ I’m currently learning C#, ASP.NET Core, Entity Framework Core, wanna learn API development.
+
+📫 How to reach me:
+- GMail: lkyrovoid@gmail.com
+- Discord: qura41.
+- Telegram: @qura41
 
 <!--
 **Qura41/Qura41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
