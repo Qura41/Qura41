@@ -2,10 +2,10 @@
 
 🔭 I'm a beginner .NET developer.
 
-⚡ I’m currently learning C#, ASP.NET Core, Entity Framework Core, wanna learn API development.
+⚡ I’m currently learning C#, ASP.NET Core, Entity Framework Core, wanna learn backend development.
 
 📫 How to reach me:
-- GMail: lkyrovoid@gmail.com
+- GMail: quraoff@gmail.com
 - Discord: qura41.
 - Telegram: @qura41
 
